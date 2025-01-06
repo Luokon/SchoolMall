@@ -1,0 +1,27 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Welcome",
+    "pages/Login",
+    "pages/Register",
+    "pages/Forget",
+    "pages/Password",
+    "pages/Info",
+    "pages/Detail",
+    "pages/MessageAdd",
+    "pages/Message",
+    "pages/Address",
+    "pages/AddressAdd",
+    "pages/SearchView",
+    "pages/GoodsList",
+    "pages/GoodsDetail",
+    "pages/ApplyPassword",
+    "pages/Balance",
+    "pages/Settle",
+    "pages/OrderList",
+    "pages/Apply",
+    "pages/SelectAddress",
+    "pages/OrderDetail",
+    "pages/OrderSelectAddress"
+  ]
+}
