@@ -6,7 +6,7 @@ import Pages from 'vite-plugin-pages'
 export default defineConfig({
   server: {
     host: '0.0.0.0',
-    port: 5173, // 可以选择你希望的端口号
+    port: 8080, // 可以选择你希望的端口号
     cors: true, // 如果需要支持跨域请求，可以设置为true
   },
   base:'./',
